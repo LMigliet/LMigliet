@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LMigliet
 - 👀 I’m interested in Molecular biology and computational biology
-- 🌱 I’m currently exploring biological process using Machine Learning
+- 🌱 I’m currently exploring biological processes using Machine Learning
 - 💞️ I’m looking to collaborate on data science projects
 
 
