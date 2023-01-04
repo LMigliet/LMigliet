@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LMigliet
-- 👀 I’m interested in Molecular biology and computational biology
+- 👀 I’m a Computational Biologist with interested in Molecular Diagnostics Devices
 - 🌱 I’m currently exploring biological processes using Machine Learning
 - 💞️ I’m looking to collaborate on data science projects
 
