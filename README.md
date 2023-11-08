@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LMigliet
-- 👀 I’m a Data Scientist with interested in Molecular Diagnostics Devices
+- 👀 I’m a Data Scientist interested in Healthcare
 - 🌱 I’m currently exploring biological processes using Machine Learning
 - 💞️ I’m looking to collaborate on data science projects
 
