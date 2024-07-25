@@ -48,7 +48,7 @@ Enhancing PCR-Based Diagnostics with Machine Learning
 
 ## Get in Touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucamigliettabiotech)
-- 🐦 [X](@LucaMigliettaIC)
+- 🐦 [X](https://twitter.com/lucamigliettaic%3Flang%3Den&ved=2ahUKEwj1tpm4ysKHAxUSVUEAHTsFO68QFnoECBkQAQ&usg=AOvVaw1WsBY4Ochw2MHxTBrauhlN)
 
 I'm always open to new opportunities and collaborations. Let's connect and make a difference together!
 
