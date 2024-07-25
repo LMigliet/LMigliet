@@ -2,10 +2,10 @@
 
 I'm @LMigliet, a passionate Data Scientist with a rich background in Biology and Bioinformatics. My journey intersects data science, healthcare, and biological research, leveraging the power of machine learning to explore and understand complex biological processes.
 
-## About Me
+## About Me - [Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&citation_for_view=msNVZbcAAAAJ:UeHWp8X0CEIC)
 
 Author of over 20 peer-reviewed articles and 5 international patents at Imperial College London. I am one of the inventors of Data-Driven Multiplexing, a timely and cost-effective framework to detect multiple pathogens in a SINGLE MOLECULAR TEST.
-[https://scholar.google.com/citations?view_op=view_citation&hl=en&user=msNVZbcAAAAJ&citation_for_view=msNVZbcAAAAJ:UeHWp8X0CEIC]
+
 
 - 🌟 **Data Scientist**: Expertise in data analysis, machine learning, and predictive modeling.
 - 🧬 **Bioinformatician**: Deep understanding of biological data, especially in genomics and molecular biology.
