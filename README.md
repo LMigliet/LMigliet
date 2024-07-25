@@ -27,14 +27,14 @@ Author of over 20 peer-reviewed articles and 5 international patents at Imperial
 
 ## Interesting Repositories
 
-### [Smart-Plexer](https://github.com/LMigliet/Smart-Plexer)
+### [Smart-Plexer](https://github.com/LMigliet/SmartPlexer)
 A Framework for Hybrid Development of Multiplex PCR Assays (from singleplex data) - PATENTED
 
 - **Branch**: "smartplexer_paper_nature" for the code reported in the [Nature paper](https://www.nature.com/articles/s42003-023-05235-w).
 - **Description**: Optimizes the selection of primer mixes for multiplex PCR assays through empirical testing and in-silico simulations.
 - **Performance**: Demonstrated excellent selection of multiplex assay with over 95% chance to be suitable for Data-Driven Multiplexing (ACA). Capable of detecting 7 different CORONAVIRUS (including COVID) strains in **single-well and single-channel PCR reaction** (with conventional PCR instruments).
 
-### [Adaptive Filter](https://github.com/LMigliet/Adaptive-Filter)
+### [Adaptive Filter](https://github.com/LMigliet/AdaptiveFiltering)
 An Advanced Filtering Technique for Biological Data
 
 - **Description**: Implements an adaptive filtering technique to enhance the accuracy and reliability of biological data analysis.
