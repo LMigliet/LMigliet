@@ -38,12 +38,13 @@ A Framework for Hybrid Development of Multiplex PCR Assays (from singleplex data
 An Advanced Filtering Technique for Biological Data
 
 - **Description**: Implements an adaptive filtering technique to enhance the accuracy and reliability of biological data analysis.
+- **Applications**: Remove outliers or non-efficient sigmoidal signals for better PCR performance [Paper](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c01883)
 
 ### [AMCA](https://github.com/LMigliet/pyAMCA_5plex)
 Enhancing PCR-Based Diagnostics with Machine Learning
 
-- **Description**: Combines machine learning algorithms with real-time digital PCR (dPCR) instruments to increase classification accuracy of multiplex PCR assays. Accurate Classification of 5 CPE genes in **single-well and single-channel PCR reaction**.
-- **Applications**: Identification of the five major carbapenem-resistant genes in clinical CPO-isolates.
+- **Description**: Combines machine learning algorithms with real-time digital PCR (dPCR) instruments to increase classification accuracy of multiplex PCR assays. Accurate Classification of 5 CPE genes in **single-well and single-channel PCR reaction**. [Paper] (https://pubs.acs.org/doi/abs/10.1021/acs.analchem.0c02253)
+- **Applications**: Identification of the five major carbapenem-resistant genes in clinical CPO-isolates. [Paper](https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2021.775299/full)
 - **Performance**: Demonstrated excellent predictive performance with 99.6% accuracy.
 
 ## Get in Touch
