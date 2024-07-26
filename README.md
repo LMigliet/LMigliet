@@ -43,7 +43,7 @@ An Advanced Filtering Technique for Biological Data
 ### [AMCA](https://github.com/LMigliet/pyAMCA_5plex)
 Enhancing PCR-Based Diagnostics with Machine Learning
 
-- **Description**: Combines machine learning algorithms with real-time digital PCR (dPCR) instruments to increase classification accuracy of multiplex PCR assays. Accurate Classification of 5 CPE genes in **single-well and single-channel PCR reaction**. [Paper] (https://pubs.acs.org/doi/abs/10.1021/acs.analchem.0c02253)
+- **Description**: Combines machine learning algorithms with real-time digital PCR (dPCR) instruments to increase classification accuracy of multiplex PCR assays. Accurate Classification of 5 CPE genes in **single-well and single-channel PCR reaction**. [Paper](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.0c02253)
 - **Applications**: Identification of the five major carbapenem-resistant genes in clinical CPO-isolates. [Paper](https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2021.775299/full)
 - **Performance**: Demonstrated excellent predictive performance with 99.6% accuracy.
 
