@@ -38,7 +38,7 @@ A Framework for Hybrid Development of Multiplex PCR Assays (from singleplex data
 An Advanced Filtering Technique for Biological Data
 
 - **Description**: Implements an adaptive filtering technique to enhance the accuracy and reliability of biological data analysis.
-- **Applications**: Remove outliers or non-efficient sigmoidal signals for better PCR performance [Paper](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c01883)
+- **Applications**: Remove outliers or non-efficient sigmoidal signals for better PCR performance. [Paper](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c01883)
 
 ### [AMCA](https://github.com/LMigliet/pyAMCA_5plex)
 Enhancing PCR-Based Diagnostics with Machine Learning
