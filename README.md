@@ -30,7 +30,7 @@ Author of over 20 peer-reviewed articles and 5 international patents at Imperial
 ### [Smart-Plexer](https://github.com/LMigliet/SmartPlexer)
 A Framework for Hybrid Development of Multiplex PCR Assays (from singleplex data) - PATENTED
 
-- **Branch**: "smartplexer_paper_nature" for the code reported in the [Nature paper](https://www.nature.com/articles/s42003-023-05235-w).
+- **Branch**: "smartplexer_paper_nature" for the code reported in the Nature [Paper](https://www.nature.com/articles/s42003-023-05235-w).
 - **Description**: Optimizes the selection of primer mixes for multiplex PCR assays through empirical testing and in-silico simulations.
 - **Performance**: Demonstrated excellent selection of multiplex assay with over 95% chance to be suitable for Data-Driven Multiplexing (ACA). Capable of detecting 7 different CORONAVIRUS (including COVID) strains in **single-well and single-channel PCR reaction** (with conventional PCR instruments).
 
